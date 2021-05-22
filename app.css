@@ -1,0 +1,32 @@
+.green, .blue, .yellow, .red {
+  height: 150px;
+  width: 150px;
+  border: 1px solid white;
+}
+
+.green {
+  background: green;
+}
+
+.red {
+  background: red;
+}
+
+.yellow {
+  background: yellow;
+}
+
+.blue {
+  background: blue;
+}
+
+body {
+  background: black;
+}
+h2{
+  color:white;
+}
+.flash{
+  box-shadow: 0 10px 10px 0 black;
+  opacity: 0.1; //MAGIC ? DECREASING OPACITY HAVE VERY GOOD EFFECT ON CLICKING BUTTONS
+}
